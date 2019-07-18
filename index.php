@@ -8,7 +8,9 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Registro PHP</title>
     <style>
-    
+    body{
+        background-color: #cecece;
+    }
 
     </style>
 </head>
